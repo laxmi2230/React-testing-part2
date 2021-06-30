@@ -1,4 +1,4 @@
-# Normal React testing feature code using react testing library (part 1).
+# Normal React testing feature code using react testing library (part 2).
 
 # Getting Started with Create React App
 
